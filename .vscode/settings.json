@@ -8,9 +8,5 @@
     "node_modules": true,
     ".next": true
   },
-  "cSpell.words": [
-    "nextjs",
-    "openlogin",
-    "toruslabs"
-  ]
+  "cSpell.words": ["nextjs", "openlogin", "toruslabs"]
 }
